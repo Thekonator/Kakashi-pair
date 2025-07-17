@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 Kakashi-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -10,7 +10,7 @@
 
 ## 💡 Fork This Project
 
-[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/XdKing2/malvin-pair/fork)
+[![Fork Repo](https://imgur.com/a/DAtX1q3/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/Thekonator/Kakashi-pair/fork)
 
 Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
 
@@ -37,15 +37,15 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 | Platform | Deploy |
 |---------|--------|
-| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/malvin-pair) |
-| 🔵 Render | [![Deploy to Render](https://img.shields.io/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
-| ⚫ Koyeb | [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
+| 🟣 Heroku | [![Deploy to Heroku](https://imgur.com/a/DAtX1q3/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/Thekonator/Kakashi-pair) |
+| 🔵 Render | [![Deploy to Render](https://imgur.com/a/DAtX1q3/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
+| ⚫ Koyeb | [![Deploy to Koyeb](https://imgur.com/a/DAtX1q3/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
 
 ---
 
 ## 🧪 Example Output
 
-[![👉 Try it here:](https://img.shields.io/badge/click-here-black?style=for-the-badge&logo=git)](https://new-session-2ag9.onrender.com/)
+[![👉 Try it here:]https://imgur.com/a/DAtX1q3/badge/click-here-black?style=for-the-badge&logo=git)](https://new-session-2ag9.onrender.com/)
 
 
 ---
@@ -53,12 +53,12 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 ## 👑 Owner
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
-    <img src="https://github.com/XdKing2.png" width="200" height="200" alt="Malvin King"/>
+  <a href="https://github.com/Thekonator">
+    <img src="https://github.com/Thekonator.png" width="200" height="200" alt="Kakashi Tech"/>
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/263780166288)
+📬 [`Contact on WhatsApp`](https://wa.me/27767375884)
 
 ---
 
